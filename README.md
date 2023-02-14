@@ -12,5 +12,5 @@ es una gran serie casual lo que la convierte en una serie que se puede ver en to
 te puedes saltar unos cuantos capitulos y vas a seguir entendiendo todo a la perferfeccion 👏.
 
 esta asombrosa serie se puede ver en: https://www.disneyplus.com
-![image](https://user-images.githubusercontent.com/125321397/218776465-15d47d48-d4ce-463a-a13e-49ac87454832.png)
+![malcom](https://user-images.githubusercontent.com/125321397/218776465-15d47d48-d4ce-463a-a13e-49ac87454832.png)
 
