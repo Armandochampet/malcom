@@ -11,8 +11,13 @@ y desarrollan de una manera adecuada a los personajes👌, lo que lo hace una se
 cuando no hay nada que ver o cuando simplemente se necesita que tener un ruido de fondo mientras trabaja
 es una gran serie casual lo que la convierte en una serie que se puede ver en todo momneto sin importar que,
 te puedes saltar unos cuantos capitulos y vas a seguir entendiendo todo a la perferfeccion 👏.<br><br>
-<sub>
+  
 la lista de mis personajes favoritos es:
+ <ol>
+   <li>hal</li>
+   <li>dewey</li>
+   <li>resee</li>
+   **    +francis
 
 esta asombrosa serie se puede ver en: https://www.disneyplus.com
 ![malcom](https://user-images.githubusercontent.com/125321397/218776465-15d47d48-d4ce-463a-a13e-49ac87454832.png)
