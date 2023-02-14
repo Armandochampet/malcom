@@ -17,7 +17,7 @@ la lista de mis personajes favoritos es:
    <li>hal</li>
    <li>dewey</li>
    <li>resee</li>
-   **    +francis
+          francis
 
 esta asombrosa serie se puede ver en: https://www.disneyplus.com
 ![malcom](https://user-images.githubusercontent.com/125321397/218776465-15d47d48-d4ce-463a-a13e-49ac87454832.png)
